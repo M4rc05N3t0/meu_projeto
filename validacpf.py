@@ -23,5 +23,3 @@ def valida_cpf(cpf):
             return 'invalido'
     else:
         return 'invalido'
-
-valida_cpf('468097898780')
